@@ -1,0 +1,116 @@
+.logo {
+  background-color: #FFF;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 40px;
+  height: 40px;
+  vertical-align: bottom;
+}
+
+.london {
+  font-size:12px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  text-align: center;
+  color: blue;
+  background-color: lightgrey;
+}
+
+.banner {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 120px;
+  height: 40px;
+}
+
+.score {
+  padding: 2px;
+  text-align: right;
+  font-family: sans-serif;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+.standing_logo {
+  font-size:16px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  text-align: right;
+  padding: 2px;
+}
+
+.standing_banner {
+  font-size:16px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  text-align: right;
+  padding: 2px;
+}
+
+.BUF_banner {background-image: url("banners/BUF.gif");}
+.MIA_banner {background-image: url("banners/MIA.png");}
+.NE_banner {background-image: url("banners/NE.gif");}
+.NYJ_banner {background-image: url("banners/NYJ.gif")}
+.DAL_banner {background-image: url("banners/DAL.gif")}
+.NYG_banner {background-image: url("banners/NYG.gif")}
+.PHI_banner {background-image: url("banners/PHI.gif")}
+.WAS_banner {background-image: url("banners/WAS.gif")}
+.BAL_banner {background-image: url("banners/BAL.gif");}
+.CIN_banner {background-image: url("banners/CIN.gif");}
+.CLE_banner {background-image: url("banners/CLE.png");}
+.PIT_banner {background-image: url("banners/PIT.png");}
+.CHI_banner {background-image: url("banners/CHI.png");}
+.DET_banner {background-image: url("banners/DET.gif");}
+.GB_banner {background-image: url("banners/GB.gif");}
+.MIN_banner {background-image: url("banners/MIN.gif");}
+.HOU_banner {background-image: url("banners/HOU.gif");}
+.IND_banner {background-image: url("banners/IND.gif");}
+.JAX_banner {background-image: url("banners/JAX.png");}
+.TEN_banner {background-image: url("banners/TEN.gif");}
+.ATL_banner {background-image: url("banners/ATL.gif");}
+.CAR_banner {background-image: url("banners/CAR.png");}
+.NO_banner {background-image: url("banners/NO.gif");}
+.TB_banner {background-image: url("banners/TB.png");}
+.DEN_banner {background-image: url("banners/DEN.gif");}
+.KC_banner {background-image: url("banners/KC.gif");}
+.OAK_banner {background-image: url("banners/OAK.gif");}
+.LAC_banner {background-image: url("banners/LAC.png");}
+.ARI_banner {background-image: url("banners/ARI.png");}
+.LAR_banner {background-image: url("banners/LAR.png");}
+.SF_banner {background-image: url("banners/SF.png");}
+.SEA_banner {background-image: url("banners/SEA.png");}
+
+.BUF_logo {background-image: url("logos/BUF.gif");}
+.MIA_logo {background-image: url("logos/MIA.png");}
+.NE_logo {background-image: url("logos/NE.gif");}
+.NYJ_logo {background-image: url("logos/NYJ.gif")}
+.DAL_logo {background-image: url("logos/DAL.gif")}
+.NYG_logo {background-image: url("logos/NYG.gif")}
+.PHI_logo {background-image: url("logos/PHI.gif")}
+.WAS_logo {background-image: url("logos/WAS.gif")}
+.BAL_logo {background-image: url("logos/BAL.gif");}
+.CIN_logo {background-image: url("logos/CIN.gif");}
+.CLE_logo {background-image: url("logos/CLE.png");}
+.PIT_logo {background-image: url("logos/PIT.png");}
+.CHI_logo {background-image: url("logos/CHI.gif");}
+.DET_logo {background-image: url("logos/DET.png");}
+.GB_logo {background-image: url("logos/GB.gif");}
+.MIN_logo {background-image: url("logos/MIN.png");}
+.HOU_logo {background-image: url("logos/HOU.gif");}
+.IND_logo {background-image: url("logos/IND.gif");}
+.JAX_logo {background-image: url("logos/JAX.gif");}
+.TEN_logo {background-image: url("logos/TEN.gif");}
+.ATL_logo {background-image: url("logos/ATL.gif");}
+.CAR_logo {background-image: url("logos/CAR.gif");}
+.NO_logo {background-image: url("logos/NO.gif");}
+.TB_logo {background-image: url("logos/TB.png");}
+.DEN_logo {background-image: url("logos/DEN.gif");}
+.KC_logo {background-image: url("logos/KC.gif");}
+.OAK_logo {background-image: url("logos/OAK.gif");}
+.LAC_logo {background-image: url("logos/LAC.png");}
+.ARI_logo {background-image: url("logos/ARI.gif");}
+.LAR_logo {background-image: url("logos/LAR.gif");}
+.SF_logo {background-image: url("logos/SF.gif");}
+.SEA_logo {background-image: url("logos/SEA.gif");}
