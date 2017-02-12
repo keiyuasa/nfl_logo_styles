@@ -58,7 +58,11 @@ http://www.sportslogos.net/teams/list_by_league/7/National_Football_League/NFL/l
 
 これはサンプルのHTMLファイルで、バナーとロゴの一覧、それに私が「NFLの黄金郷」で使ってきた「翌年シーズンの対戦相手」、「スコアボード」、「順位表」のサンプルです。
 
-ファイルの中を見れば分かりますが、ここではbanners、logosの下にセーブされたイメージファイルを<img src="">ではなく、テーブルのTDのバックグラウンドとして引用しています。具体的には、各HTMLの中では、
+ファイルの中を見れば分かりますが、ここではbanners、logosの下にセーブされたイメージファイルを
+```
+<img src="">
+```
+ではなく、テーブルのTDのバックグラウンドとして引用しています。具体的には、各HTMLの中では、
 ```
 <td class="logo SF_logo"></td>
 ```
