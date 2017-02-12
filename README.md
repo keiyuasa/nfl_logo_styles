@@ -1,3 +1,4 @@
+
 # NFLチームロゴ用スタイルファイル
 
 このページはNFL関係のブログを作っている人のために、32チームのチームロゴ、チームバナーのグラフィックスデータを綺麗に出力するためのスタイルファイルを提供しています。
@@ -24,7 +25,7 @@ http://www.sportslogos.net/teams/list_by_league/7/National_Football_League/NFL/l
 元々のChris Creamerさんのページで公開された時期によって、GIFである場合と、PNGである場合があります。ファイル名はそのチームの略称で、以下の通り。
 
 | 略称 | チーム名 (AFC)||略称|チーム名 (NFC)|
-|:----:|:----:||:----:|:----:|
+|----|----|----|----|----|
 |BUF|Buffalo Bills||DAL|Dallas Cowboys|
 |MIA|Miami Dolphins||NYJ|New York Giants|
 |NE|New England Patriots||PHI|Philadelphia Eagles|
